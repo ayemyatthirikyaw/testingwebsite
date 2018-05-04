@@ -1,0 +1,20 @@
+h1{
+	color: red;
+	font-size: 50px;
+}
+
+.sillydog{
+	border: 5px solid red;
+}
+
+.sillydog:hover{
+	border: :5px solid green;
+}
+
+#headingtwo{
+	background-color: #efefef;
+	padding-top: 20px
+	font-size:30px;
+	color:blue;
+	text-transform: uppercase; 
+}
